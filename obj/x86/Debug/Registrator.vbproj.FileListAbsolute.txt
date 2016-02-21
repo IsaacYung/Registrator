@@ -1,0 +1,17 @@
+\\192.168.4.252\Operação\Agentes\Isaac Lopes\Novo Registrator\Projects\Registrator\Registrator\bin\Debug\Registrator.exe
+\\192.168.4.252\Operação\Agentes\Isaac Lopes\Novo Registrator\Projects\Registrator\Registrator\bin\Debug\Registrator.pdb
+\\192.168.4.252\Operação\Agentes\Isaac Lopes\Novo Registrator\Projects\Registrator\Registrator\obj\x86\Debug\ResolveAssemblyReference.cache
+\\192.168.4.252\Operação\Agentes\Isaac Lopes\Novo Registrator\Projects\Registrator\Registrator\obj\x86\Debug\Registrator.MainForm.resources
+\\192.168.4.252\Operação\Agentes\Isaac Lopes\Novo Registrator\Projects\Registrator\Registrator\obj\x86\Debug\Registrator.vbproj.GenerateResource.Cache
+\\192.168.4.252\Operação\Agentes\Isaac Lopes\Novo Registrator\Projects\Registrator\Registrator\obj\x86\Debug\Registrator.exe
+\\192.168.4.252\Operação\Agentes\Isaac Lopes\Novo Registrator\Projects\Registrator\Registrator\obj\x86\Debug\Registrator.pdb
+\\192.168.4.252\Operação\Agentes\Isaac Lopes\Novo Registrator\Projects\Registrator\Registrator\obj\x86\Debug\Registrator.frmBv.resources
+C:\Users\Isaac\Desktop\Projeto Registrator\Projects\Registrator\Registrator\bin\Debug\Registrator.exe
+C:\Users\Isaac\Desktop\Projeto Registrator\Projects\Registrator\Registrator\bin\Debug\Registrator.pdb
+C:\Users\Isaac\Desktop\Projeto Registrator\Projects\Registrator\Registrator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Isaac\Desktop\Projeto Registrator\Projects\Registrator\Registrator\obj\x86\Debug\Registrator.frmBv.resources
+C:\Users\Isaac\Desktop\Projeto Registrator\Projects\Registrator\Registrator\obj\x86\Debug\Registrator.MainForm.resources
+C:\Users\Isaac\Desktop\Projeto Registrator\Projects\Registrator\Registrator\obj\x86\Debug\Registrator.vbproj.GenerateResource.Cache
+C:\Users\Isaac\Desktop\Projeto Registrator\Projects\Registrator\Registrator\obj\x86\Debug\Registrator.exe
+C:\Users\Isaac\Desktop\Projeto Registrator\Projects\Registrator\Registrator\obj\x86\Debug\Registrator.pdb
+C:\Users\Isaac\Desktop\Projeto Registrator\Projects\Registrator\Registrator\obj\x86\Debug\Registrator.frmPrincipal.resources
